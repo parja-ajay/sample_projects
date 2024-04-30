@@ -1,0 +1,10 @@
+input_file_location=
+output_file_location=
+initial_temp=
+initial_time=
+simple_temp=
+simple_time=
+average_temp=
+average_time=
+hard_temp=
+hard_time=
